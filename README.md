@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   0 secs          █████████████████████████   100.00 %
+JavaScript   6 mins          █████████████▓░░░░░░░░░░░   55.17 %
+HTML         4 mins          ███████████░░░░░░░░░░░░░░   43.51 %
+SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
