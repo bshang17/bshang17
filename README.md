@@ -3,10 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.91 %
-Markdown     1 hr 40 mins    ██████████▒░░░░░░░░░░░░░░   41.46 %
-INI          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       2 hrs 37 mins   ██████████████▒░░░░░░░░░░   57.37 %
+Markdown     1 hr 57 mins    ██████████▓░░░░░░░░░░░░░░   42.62 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
