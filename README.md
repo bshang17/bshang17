@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     4 mins                ████████████████████████▓   98.15 %
-JSON       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Markdown   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Python   4 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
