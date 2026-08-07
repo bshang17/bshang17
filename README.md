@@ -18,6 +18,5 @@ Papers, news, and photographs.
 
 [LLM-Biometrics](https://github.com/OPTML-Group/LLM-Biometrics) · tracing LLM lineage from weight geometry  
 [Unlearn-Backdoor](https://github.com/OPTML-Group/Unlearn-Backdoor) · attention sinks as a gateway for backdooring unlearning  
-[SIFT](https://github.com/OPTML-Group/SIFT) · steering a model toward one objective without breaking a second  
 [Split_Adaptation](https://github.com/conditionWang/Split_Adaptation) · adapting a pre-trained vision transformer without exposing data or weights
 
