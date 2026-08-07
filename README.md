@@ -1,28 +1,23 @@
-## Hi there 👋
+## Bingqi Shang
 
-<!--START_SECTION:waka-->
+PhD student at the [OPTML Group](https://www.optml-group.com/), Michigan State University, advised by [Prof. Sijia Liu](https://lsjxjtu.github.io/). Research scientist intern at the MIT-IBM Computing Research Lab.
 
-```txt
-Markdown     27 hrs 5 mins         ███████████▒░░░░░░░░░░░░░   44.97 %
-Python       14 hrs 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 %
-Bash         7 hrs 30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-JavaScript   3 hrs 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-TeX          1 hr 53 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-```
+**Trustworthy Machine Learning.** Machine Unlearning, Alignment & RLHF, Adversarial Machine Learning  
+**Generative AI.** Large-language Model, Multi-modal Language Model, Reasoning, Post-training, On-policy Distillation
 
-<!--END_SECTION:waka-->
+### → [bingqi-shang.com](https://bingqi-shang.com)
 
-<!--
-**OliverShang/OliverShang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Papers, news, and photographs.
 
-Here are some ideas to get you started:
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-1e293b?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8xedwl0AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e293b?style=flat-square)](https://www.linkedin.com/in/bingqi-shang/)
+[![Instagram](https://img.shields.io/badge/Instagram-1e293b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bingqi.shang/)
+[![Email](https://img.shields.io/badge/Email-1e293b?style=flat-square)](mailto:contact@bingqi-shang.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Code
+
+[LLM-Biometrics](https://github.com/OPTML-Group/LLM-Biometrics) · tracing LLM lineage from weight geometry  
+[Unlearn-Backdoor](https://github.com/OPTML-Group/Unlearn-Backdoor) · attention sinks as a gateway for backdooring unlearning  
+[SIFT](https://github.com/OPTML-Group/SIFT) · steering a model toward one objective without breaking a second  
+[Split_Adaptation](https://github.com/conditionWang/Split_Adaptation) · adapting a pre-trained vision transformer without exposing data or weights
+
